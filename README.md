@@ -1,2 +1,2 @@
 # boot-css
-Biblioteca CSS para auxilio em desenvolvimento responsivo. 
+Biblioteca de classes CSS para auxilio em desenvolvimento responsivo. 
